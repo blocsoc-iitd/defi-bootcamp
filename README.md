@@ -1,4 +1,11 @@
-# 🚀 DeFi Summer Bootcamp 🌞  
+# 🚀 DeFi Summer Bootcamp 🌞
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Enrollment%20Open-brightgreen" alt="Status: Enrollment Open">
+  <img src="https://img.shields.io/badge/Team-BlocSoc-blue" alt="Team: Robotics Club">
+  <img src="https://img.shields.io/badge/Duration-6%20Weeks-orange" alt="Duration: 5/6 Weeks">
+</div>
+
 The vision behind organizing this bootcamp is to get everyone familiar with blockchain 🧠, help prepare for upcoming hackathons 🛠️, and provide non-members of the club an opportunity to explore the technology and dive deeper into it 🌐.
 
 We aim to make the bootcamp as interactive as possible 🤝 by discussing real-world challenges 🌍 and limitations in existing systems, and by brainstorming new project ideas together 💡.
@@ -16,6 +23,7 @@ Need some more incentive besides knowledge? We got you some — guess what — *
 - 💥 And most importantly — you’ll learn Web3 without wanting to rage-quit 😤
 
 ---
+
 
 ## 📅 Week 1 - Introduction to DeFi (Akshat)  
 **📌 Assignment**: [Simple NFT Example](https://speedrunethereum.com/challenge/simple-nft-example)
@@ -69,18 +77,17 @@ Need some more incentive besides knowledge? We got you some — guess what — *
 **📌 Assignment**: [Token Vendor](https://speedrunethereum.com/challenge/token-vendor)
 
 ### 🕵️ Privacy  
-- 🔒 The Privacy Limits of Transacting in Bitcoin  
-- 🔍 A Study of Data Privacy in DeFi Protocols  
-- 🧠 Threshold Encryption  
-- 🧬 Threshold Fully Homomorphic Encryption  
+- 🔒 [The Privacy Limits of Transacting in Bitcoin](https://journals.library.columbia.edu/index.php/CBLR/article/download/9986/5048/24371)  
+- 🔍 [A Study of Data Privacy in DeFi Protocols](https://arxiv.org/pdf/2211.16082)
+- 🧬 [Threshold Fully Homomorphic Encryption](https://www.iacr.org/archive/crypto2018/10993213/10993213.pdf)
 
 ### 🧱 Staking and Restaking  
-- 📄 Eigen Layer White Paper  
-- 📊 Analysis of White Paper  
+- 📄 [Eigen Layer White Paper](https://docs.eigenlayer.xyz/assets/files/EigenLayer_WhitePaper-88c47923ca0319870c611decd6e562ad.pdf)  
+- 📊 [Analysis of White Paper](https://medium.com/@_Bok_Choy/understanding-the-eigenlayer-whitepaper-592807bb1d93) 
 
 ### 🆔 Decentralized Identity  
-- 📘 "Are We There Yet? A Study of Decentralized Identity Applications" (arXiv, March 2025)  
-- 📖 Decentralized Identity Playbook  
+- 📘 ["Are We There Yet? A Study of Decentralized Identity Applications" (arXiv, March 2025)](https://arxiv.org/pdf/2503.15964)  
+- 📖 [Decentralized Identity Playbook](https://walt.id/white-paper/decentralized-identity-playbook)
 
 ---
 
