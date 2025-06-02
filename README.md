@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Duration-6%20Weeks-orange" alt="Duration: 5/6 Weeks">
 </div>
 
-The vision behind organizing this bootcamp is to get everyone familiar with blockchain 🧠, help prepare for upcoming hackathons 🛠️, and provide non-members of the club an opportunity to explore the technology and dive deeper into it 🌐.
 
 We aim to make the bootcamp as interactive as possible 🤝 by discussing real-world challenges 🌍 and limitations in existing systems, and by brainstorming new project ideas together 💡.
 
@@ -14,6 +13,8 @@ We also plan to hold weekly doubt-clearing sessions 🗓️ to support participa
 
 Need some more incentive besides knowledge? We got you some — guess what — **NFTs**!!! 🎉🎨
 
+Resources will be updated weekly.
+Please keep checking the GitHub link for the latest updates.
 ---
 
 ## 🏆 Why should you join?
@@ -85,6 +86,7 @@ Need some more incentive besides knowledge? We got you some — guess what — *
 ### 🔮 MEV   
 - 💰 [Maximal Extractable Value (MEV)](https://chain.link/education-hub/maximal-extractable-value-mev)  
 - 🏃‍♂️ [Understanding Front-Running](https://hacken.io/discover/front-running/)  
+- 💱 [Flashbots](https://medium.com/cyfrin/flashbots-protect-hero-or-villain-f2133464d73b)
 - 🤖 [Frontrunners and MEV Explained](https://coinmarketcap.com/academy/article/frontrunners-and-mev-explained-how-to-beat-the-bots)  
 - 🛡️ [Frontrun erc20](https://www.youtube.com/watch?v=bu4_QqHaRTk&ab_channel=SmartContractProgrammer)
 - 🏃‍♂️ [Understanding Front-Running](https://hacken.io/discover/front-running/) 
