@@ -13,8 +13,9 @@ We also plan to hold weekly doubt-clearing sessions 🗓️ to support participa
 
 Need some more incentive besides knowledge? We got you some — guess what — **NFTs**!!! 🎉🎨
 
-Resources will be updated weekly.
-Please keep checking the GitHub link for the latest updates.
+#### Resources will be updated weekly.
+#### Please keep checking the GitHub link for the latest updates.
+
 ---
 
 ## 🏆 Why should you join?
@@ -89,7 +90,7 @@ Please keep checking the GitHub link for the latest updates.
 - 💱 [Flashbots](https://medium.com/cyfrin/flashbots-protect-hero-or-villain-f2133464d73b)
 - 🤖 [Frontrunners and MEV Explained](https://coinmarketcap.com/academy/article/frontrunners-and-mev-explained-how-to-beat-the-bots)  
 - 🛡️ [Frontrun erc20](https://www.youtube.com/watch?v=bu4_QqHaRTk&ab_channel=SmartContractProgrammer)
-- 🏃‍♂️ [Understanding Front-Running](https://hacken.io/discover/front-running/) 
+- 📈 [Blockchain Front-Running: Risks and Protective Measures](https://www.ulam.io/blog/blockchain-front-running-risks-and-protective-measures) 
 
 ---
 
