@@ -31,8 +31,12 @@ Need some more incentive besides knowledge? We got you some — guess what — *
 ### ⚙️ Introduction to Blockchain Technology 
 **🗓️ Date**: June 1, 2025
 - 📺 [Blockchain Basics YouTube Playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgopFiRQiM-onPH38S0D2DU31)  
-- 📘 [Lecture 2 Reading Materials](https://blocsociitd.notion.site/Lecture-2-Reading-Materials-0ac3cd6a1951417db9289ae20cba6720)  
-- 🎓 [Patrick Collins Tutorial (first 2-3 hours)](https://www.youtube.com/watch?v=umepbfKp5rI&t=23699s&ab_channel=PatrickCollins)  
+- 🧬 [How does new Ethereum works ](https://www.preethikasireddy.com/post/how-does-the-new-ethereum-work)
+- 📘 [Architecture of a Dapp](https://www.preethikasireddy.com/post/the-architecture-of-a-web-3-0-application)  
+- 🔮 ["Inter planatery" file system](https://medium.com/@TheNimbleNovice/a-beginners-guide-to-interplanetary-file-system-ipfs-d83232dc39a5)
+- 🔄 [Intro to Side chain and Sharding](https://ethereum.org/en/developers/docs/scaling/sidechains/)
+- 🎓 [Patrick Collins Tutorial (first 2-3 hours)](https://www.youtube.com/watch?v=umepbfKp5rI&t=23699s&ab_channel=PatrickCollins) 
+- 🛡️ [Intro to rollups](https://www.preethikasireddy.com/post/a-normies-guide-to-rollups) 
 - 🧾 *(Optional)* [Ethereum L2 - Optimistic and ZK Rollups](https://medium.com/interdax/ethereum-l2-optimistic-and-zk-rollups-dffa58870c93)  
 - 📄 *(Optional)* [Bitcoin Whitepaper](https://berkeley-defi.github.io/assets/material/bitcoin.pdf)  
 - 📄 *(Optional)* [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)  
@@ -70,14 +74,19 @@ Need some more incentive besides knowledge? We got you some — guess what — *
 - 🏗️ [Constructing ERC20 Contract](https://docs.openzeppelin.com/contracts/5.x/erc20)  
 - 🧪 [Foundry Testing Solidity](https://www.rareskills.io/post/foundry-testing-solidity)  
 
-### 🔮 Oracles, MEV and Frontrunning  
+### 🔮 Oracles and stablecoins 
 - 🔗 [What is Chainlink?](https://blog.chain.link/what-is-chainlink/)  
-- 💰 [Maximal Extractable Value (MEV)](https://chain.link/education-hub/maximal-extractable-value-mev)  
+- 💵 [Stablecoin Definition](https://www.investopedia.com/terms/s/stablecoin.asp)  
+- 📊 [DeFi MOOC L7](https://rdi.berkeley.edu/berkeley-defi/assets/material/Lecture%207%20Introduction%20Slides.pdf) 
 - 🚀 [DeFi 2.0](https://chain.link/education-hub/defi-2-0)  
-- 🏃‍♂️ [Understanding Front-Running](https://hacken.io/discover/front-running/)  
-- 🤖 [Frontrunners and MEV Explained](https://coinmarketcap.com/academy/article/frontrunners-and-mev-explained-how-to-beat-the-bots)  
+- 🏃‍♂️ [Understanding Front-Running](https://hacken.io/discover/front-running/)    
 - 🛡️ [Blockchain Front-Running Risks and Protective Measures](https://www.ulam.io/blog/blockchain-front-running-risks-and-protective-measures)  
 - 📄 *(Advanced)* [Chainlink Whitepaper](https://chain.link/whitepaper)  
+
+### 🔮 MEV   
+- 💰 [Maximal Extractable Value (MEV)](https://chain.link/education-hub/maximal-extractable-value-mev)  
+- 🏃‍♂️ [Understanding Front-Running](https://hacken.io/discover/front-running/)  
+- 🤖 [Frontrunners and MEV Explained](https://coinmarketcap.com/academy/article/frontrunners-and-mev-explained-how-to-beat-the-bots)  
 
 ---
 
@@ -97,50 +106,20 @@ Need some more incentive besides knowledge? We got you some — guess what — *
 ### 🪙 Stablecoins and AMMs  
 - 🔄 [What is an Automated Market Maker (AMM)?](https://chain.link/education-hub/what-is-an-automated-market-maker-amm)  
 - 💱 [What is a Decentralized Exchange (DEX)?](https://chain.link/education-hub/what-is-decentralized-exchange-dex)  
-- 🦄 [What is Uniswap and How Does it Work?](https://finalfinance.medium.com/what-is-uniswap-and-how-does-it-work-76bfd4ccff52)  
-- 💵 [Stablecoin Definition](https://www.investopedia.com/terms/s/stablecoin.asp)  
-- 📊 [DeFi MOOC L7](https://rdi.berkeley.edu/berkeley-defi/assets/material/Lecture%207%20Introduction%20Slides.pdf)  
+- 🦄 [What is Uniswap and How Does it Work?](https://finalfinance.medium.com/what-is-uniswap-and-how-does-it-work-76bfd4ccff52)    
 - 🔮 [DeFi MOOC L8](https://rdi.berkeley.edu/berkeley-defi/assets/material/COMPRESSED%20Oracle%20Lecture%E2%80%94DeFi%20course.pdf)  
 - 🔄 [Curve Finance Explained](https://www.gemini.com/cryptopedia/curve-finance-liquidity-provider-dao)  
 - 📈 [AMM vs Order Book](https://snapinnovations.com/amm-vs-order-book-understanding-the-core-of-modern-crypto-trading/)  
 - 📄 *(Advanced)* [Stablecoins 2.0 Paper](https://berkeley-defi.github.io/assets/material/Stablecoins%202.0%20.pdf)  
 - 📚 *(Advanced)* [Uniswap v3 Book](https://uniswapv3book.com/index.html)  
 
-### 💹 Cryptoeconomics  
-- 📺 [Ethereum Foundation on Cryptoeconomics](https://www.youtube.com/watch?v=GQR1xjQn5Pg&ab_channel=EthereumFoundation)  
-- 📘 [What is Cryptoeconomics?](https://www.geeksforgeeks.org/what-is-cryptoeconomics/)  
-- 📄 [Cryptecon Publication](https://cryptecon.org/files/content/dokumente/publikationen/Cryptecon_Ethereumz%C3%BCrich_2025.pdf)  
 
 ## 📅 Week 4 - DeFi Security
-### 🔒 Smart Contract Security [External]  
-- 🛡️ [DeFi Security Practices](https://medium.com/@realcyberdoctor/defi-security-practices-for-safer-smart-contracts-b87374ff6467)  
-- 📊 [Berkeley DeFi Lecture 12](https://rdi.berkeley.edu/berkeley-defi/assets/material/Lecture%2012%20Slides.pdf)  
-- 📊 [Berkeley DeFi Lecture 13](https://rdi.berkeley.edu/berkeley-defi/assets/material/Lec%2013%20Slides.pdf)  
-
-### 💹 Cryptoeconomics  
-- 📺 [Ethereum Foundation on Cryptoeconomics](https://www.youtube.com/watch?v=GQR1xjQn5Pg&ab_channel=EthereumFoundation)  
-- 📘 [What is Cryptoeconomics?](https://www.geeksforgeeks.org/what-is-cryptoeconomics/)  
-- 📄 [Cryptecon Publication](https://cryptecon.org/files/content/dokumente/publikationen/Cryptecon_Ethereumz%C3%BCrich_2025.pdf)  
-
-### 🕵️ Privacy on the Blockchain [External]  
-- 🔒 [The Privacy Limits of Transacting in Bitcoin](https://journals.library.columbia.edu/index.php/CBLR/article/download/9986/5048/24371)  
-- 🔍 [A Study of Data Privacy in DeFi Protocols](https://arxiv.org/pdf/2211.16082)  
-- 🌪️ [Tornado Cash Whitepaper](https://berkeley-defi.github.io/assets/material/Tornado%20Cash%20Whitepaper.pdf)  
-- 🧮 [Threshold Fully Homomorphic Encryption](https://www.iacr.org/archive/crypto2018/10993213/10993213.pdf)  
-
-### 🧱 Staking and Restaking [External]
-- 📄 [Eigen Layer White Paper](https://docs.eigenlayer.xyz/assets/files/EigenLayer_WhitePaper-88c47923ca0319870c611decd6e562ad.pdf)  
-- 📊 [Analysis of White Paper](https://medium.com/@_Bok_Choy/understanding-the-eigenlayer-whitepaper-592807bb1d93)  
-
+### tbd
 ---
 
 ## 📅 Week 5 - In-depth Research and Project Discussion  
-- 📊 [Economic Analysis of Restaking](https://mirror.xyz/barnabe.eth/96MD_A194uXLLjcOWePW3O2N3P-JG-SHtNxU0b40o50)  
-- 📈 Staking Economics  
-- 🧮 [Modeling of Stake Supply](https://ethresear.ch/t/faq-ethereum-issuance-reduction/19675)  
-- 💡 [Solana Labs DeFi Hackathon Ideas](https://github.com/solana-labs/defi-hackathon/blob/main/ideas.md)  
-- ⚡ [SpeedrunEthereum Advanced Challenges](https://speedrunethereum.com/)  
-
+### tbd
 ---
 
 # 🎓 DeFi Bootcamp NFT Reward Tiers  
