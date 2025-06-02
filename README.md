@@ -79,7 +79,6 @@ Need some more incentive besides knowledge? We got you some — guess what — *
 - 💵 [Stablecoin Definition](https://www.investopedia.com/terms/s/stablecoin.asp)  
 - 📊 [DeFi MOOC L7](https://rdi.berkeley.edu/berkeley-defi/assets/material/Lecture%207%20Introduction%20Slides.pdf) 
 - 🚀 [DeFi 2.0](https://chain.link/education-hub/defi-2-0)  
-- 🏃‍♂️ [Understanding Front-Running](https://hacken.io/discover/front-running/)    
 - 🛡️ [Blockchain Front-Running Risks and Protective Measures](https://www.ulam.io/blog/blockchain-front-running-risks-and-protective-measures)  
 - 📄 *(Advanced)* [Chainlink Whitepaper](https://chain.link/whitepaper)  
 
@@ -87,6 +86,8 @@ Need some more incentive besides knowledge? We got you some — guess what — *
 - 💰 [Maximal Extractable Value (MEV)](https://chain.link/education-hub/maximal-extractable-value-mev)  
 - 🏃‍♂️ [Understanding Front-Running](https://hacken.io/discover/front-running/)  
 - 🤖 [Frontrunners and MEV Explained](https://coinmarketcap.com/academy/article/frontrunners-and-mev-explained-how-to-beat-the-bots)  
+- 🛡️ [Frontrun erc20](https://www.youtube.com/watch?v=bu4_QqHaRTk&ab_channel=SmartContractProgrammer)
+- 🏃‍♂️ [Understanding Front-Running](https://hacken.io/discover/front-running/) 
 
 ---
 
@@ -108,8 +109,11 @@ Need some more incentive besides knowledge? We got you some — guess what — *
 - 💱 [What is a Decentralized Exchange (DEX)?](https://chain.link/education-hub/what-is-decentralized-exchange-dex)  
 - 🦄 [What is Uniswap and How Does it Work?](https://finalfinance.medium.com/what-is-uniswap-and-how-does-it-work-76bfd4ccff52)    
 - 🔮 [DeFi MOOC L8](https://rdi.berkeley.edu/berkeley-defi/assets/material/COMPRESSED%20Oracle%20Lecture%E2%80%94DeFi%20course.pdf)  
-- 🔄 [Curve Finance Explained](https://www.gemini.com/cryptopedia/curve-finance-liquidity-provider-dao)  
-- 📈 [AMM vs Order Book](https://snapinnovations.com/amm-vs-order-book-understanding-the-core-of-modern-crypto-trading/)  
+- 🔄 [Curve Finance Explained](https://www.gemini.com/cryptopedia/curve-finance-liquidity-provider-dao)
+- 💱 [constant product AMM math](https://www.youtube.com/watch?v=QNPyFs8Wybk&ab_channel=SmartContractProgrammer)
+- 🦄 [uniswap v2 course](https://www.youtube.com/watch?v=t0NZq8SmywU&list=PLO5VPQH6OWdX-Rh7RonjZhOd9pb9zOnHW&index=131&ab_channel=SmartContractProgrammer)
+- 📈 [AMM vs Order Book](https://snapinnovations.com/amm-vs-order-book-understanding-the-core-of-modern-crypto-trading/)
+- 📄 *(Advanced)* [AMM book](https://drive.google.com/file/d/12KHNwPP0T1nT6BDXr_N8Rz0rLuHsTij4/view?usp=sharing)
 - 📄 *(Advanced)* [Stablecoins 2.0 Paper](https://berkeley-defi.github.io/assets/material/Stablecoins%202.0%20.pdf)  
 - 📚 *(Advanced)* [Uniswap v3 Book](https://uniswapv3book.com/index.html)  
 
