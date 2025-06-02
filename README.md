@@ -82,6 +82,9 @@ Need some more incentive besides knowledge? We got you some — guess what — *
 - 📊 [DeFi MOOC L7](https://rdi.berkeley.edu/berkeley-defi/assets/material/Lecture%207%20Introduction%20Slides.pdf) 
 - 🚀 [DeFi 2.0](https://chain.link/education-hub/defi-2-0)  
 - 🛡️ [Blockchain Front-Running Risks and Protective Measures](https://www.ulam.io/blog/blockchain-front-running-risks-and-protective-measures)  
+- [chianlink smart contract ](https://docs.chain.link/data-feeds/using-data-feeds)
+- [Chainlink data feed](https://docs.chain.link/data-feeds)
+- [Stablecoin Playlist](https://www.youtube.com/playlist?list=PLS01nW3RtgopE30_TvN5cNQwEpByGpRm2)
 - 📄 *(Advanced)* [Chainlink Whitepaper](https://chain.link/whitepaper)  
 
 ### 🔮 MEV   
@@ -90,6 +93,8 @@ Need some more incentive besides knowledge? We got you some — guess what — *
 - 💱 [Flashbots](https://medium.com/cyfrin/flashbots-protect-hero-or-villain-f2133464d73b)
 - 🤖 [Frontrunners and MEV Explained](https://coinmarketcap.com/academy/article/frontrunners-and-mev-explained-how-to-beat-the-bots)  
 - 🛡️ [Frontrun erc20](https://www.youtube.com/watch?v=bu4_QqHaRTk&ab_channel=SmartContractProgrammer)
+- [Flashbots (smart contract programmer)](https://medium.com/cyfrin/flashbots-protect-hero-or-villain-f2133464d73b)
+- [MEV and Me](https://www.paradigm.xyz/2021/02/mev-and-me)
 - 📈 [Blockchain Front-Running: Risks and Protective Measures](https://www.ulam.io/blog/blockchain-front-running-risks-and-protective-measures) 
 
 ---
@@ -103,7 +108,12 @@ Need some more incentive besides knowledge? We got you some — guess what — *
 - 🌾 [Yield Farming Explained](https://finematics.com/yield-farming-explained/)  
 - 🏦 [Yearn Finance and YFI Explained](https://finematics.com/yearn-finance-and-yfi-explained/)  
 - 📘 [Understanding Aave for Dummies](https://medium.com/blockchain-biz/understanding-aave-for-dummies-a059c797e6a0)  
-- 📚 [Compound Finance DeFi Lending Platform](https://www.okx.com/learn/compound-finance-defi-lending-platform)  
+- 📚 [Compound Finance DeFi Lending Platform](https://www.okx.com/learn/compound-finance-defi-lending-platform)
+- [interest rate model of AAVe](https://www.rareskills.io/post/aave-interest-rate-model)
+- [Defi Lending (rareskills)](https://www.rareskills.io/post/defi-liquidations-collateral)
+- [Flash loans( rareskills )](https://www.rareskills.io/post/erc-3156)
+- [Different kind of loans w.r.t collteral](https://senekafund.pl/blog/what-is-an-overcollateralized-defi-loan-and-how-does-it-work)
+- [compound (Smart contract programmer )](https://www.youtube.com/watch?v=pl6iNIL72kY&t=24s&ab_channel=SmartContractProgrammer)
 - 📄 *(Advanced)* [Aave v2 Whitepaper](https://github.com/aave/protocol-v2/blob/master/aave-v2-whitepaper.pdf)  
 - 📄 *(Advanced)* [Compound Whitepaper](https://compound.finance/documents/Compound.Whitepaper.pdf)  
 
