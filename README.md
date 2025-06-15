@@ -74,9 +74,15 @@ Need some more incentive besides knowledge? We got you some — guess what — *
 - 🧪 [Solidity Events](https://www.rareskills.io/learn-solidity/events)  
 - 📜 [ERC20 Token Standard](https://eips.ethereum.org/EIPS/eip-20)  
 - 🏗️ [Constructing ERC20 Contract](https://docs.openzeppelin.com/contracts/5.x/erc20)  
-- 🧪 [Foundry Testing Solidity](https://www.rareskills.io/post/foundry-testing-solidity)  
+- 🧪 [Foundry Testing Solidity](https://www.rareskills.io/post/foundry-testing-solidity)
 
-### 🔮 Oracles and stablecoins 
+### 📜 Token Smart Contracts
+- 📝 [What is ERC-20?](https://hackmd.io/@nikillxh/rkJEvTWmxg)
+- 📝 [What is ERC721?](https://hackmd.io/@nikillxh/BkypIa-7ll)
+- 💻 [Hands on: ERC-20 + ERC-721](https://github.com/nikillxh/token-frenzy)
+
+### 🔮 Oracles and stablecoins
+- 📚 Discussion on Oracles & Stablecoins: [PDF](./resources/Oracles_Stablecoins_13062025.pdf) | [Excalidraw](./resources/Oracles_Stablecoins.excalidraw)
 - 🔗 [What is Chainlink?](https://blog.chain.link/what-is-chainlink/)  
 - 💵 [Stablecoin Definition](https://www.investopedia.com/terms/s/stablecoin.asp)  
 - 📊 [DeFi MOOC L7](https://rdi.berkeley.edu/berkeley-defi/assets/material/Lecture%207%20Introduction%20Slides.pdf) 
