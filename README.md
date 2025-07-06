@@ -138,13 +138,40 @@ Need some more incentive besides knowledge? We got you some — guess what — *
 
 
 ## 📅 Week 4 - DeFi Security
-### tbd
+
+### 🔐 Resources on DeFi Security Practices and Smart Contract Auditing
+- [🎥 Playlist: DeFi Security](https://www.youtube.com/watch?v=dDispC5aOMs&list=PLS01nW3RtgopsMpAceFwuyLKH42VW0Nw9)
+- [📝 DeFi Security Practices for Safer Smart Contracts](https://medium.com/@realcyberdoctor/defi-security-practices-for-safer-smart-contracts-b87374ff6467)
+- [🔍 GitHub: Checks While Hacks (DeFi Hack Case Studies by Prince)](https://github.com/0xprinc/checks-while-hacks/?s=08)
+- [🧪 Cyfrin Updraft: Audit and Attack Simulation Course](https://updraft.cyfrin.io/courses/security/audit/attacks)
+- [🎯 Damn Vulnerable DeFi - Practice CTF for DeFi Exploits](https://www.damnvulnerabledefi.xyz/)
+
 ---
 
-## 📅 Week 5 - In-depth Research and Project Discussion  
-### tbd
+## 📅 Week 5 - Staking, Re-staking, and Advanced Concepts
+
+### 🌱 Understanding Ethereum Staking and EigenLayer
+- [🔗 Ethereum Staking Mechanics – Step-by-Step](https://cryptoforinnovation.org/ethereum-staking-mechanics-a-step-by-step-explanation/)
+- [🧠 Semantics of Staking 1 : Liquefaction](https://mirror.xyz/barnabe.eth/v7W2CsSVYW6I_9bbHFDqvqShQ6gTX3weAtwkaVAzAL4)
+- [💡Semantics of Staking 2: Restaking ](https://mirror.xyz/barnabe.eth/96MD_A194uXLLjcOWePW3O2N3P-JG-SHtNxU0b40o50)
+- [📊Semantics of Staking 3: Advanced Constructions](https://mirror.xyz/barnabe.eth/62E79gUSqiwS9NEbbfdwTdy7G9Hh098fcV38vWv8VQo)
+- [📄 EigenLayer Whitepaper ](https://docs.eigencloud.xyz/assets/files/EigenLayer_WhitePaper-88c47923ca0319870c611decd6e562ad.pdf)
+- [🧾 Understanding the EigenLayer Whitepaper](https://medium.com/@_Bok_Choy/understanding-the-eigenlayer-whitepaper-592807bb1d93)
+
 ---
 
+## 📚 Additional Topics
+
+### 🔄 Order Flow Auctions & Crypto Liquidity Aggregation
+- [📘 Understanding Order Flow Auctions (CoW Protocol)](https://cow.fi/learn/understanding-order-flow-auctions)
+- [📚 CoW Protocol Solvers Documentation](https://docs.cow.fi/cow-protocol/concepts/introduction/solvers)
+
+### 🌉 Cross-Chain Bridges and Liquidity Aggregation
+- [📖 Part 1 : Crypto Aggregation Theory](https://li.fi/knowledge-hub/crypto-aggregation-theory-ft-bridges/)
+- [🌐 Part 2: Bridge Aggregation in a Multi-Chain World](https://li.fi/knowledge-hub/bridge-aggregation-in-a-multi-chain-world/)
+- [🚀 Smart Order Routing](https://medium.com/deeplink-labs/smart-order-routing-a-comprehensive-guide-928915a34f6e)
+ 
+---
 # 🎓 DeFi Bootcamp NFT Reward Tiers  
 Welcome to the next level of your DeFi Bootcamp experience! 🌟  
 To honor your learning, participation, and growth, we're issuing **3 exclusive NFT tiers**. These NFTs serve as **on-chain proof** of your dedication and skill, symbolizing your identity within the Web3 ecosystem.
