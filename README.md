@@ -139,6 +139,10 @@ Need some more incentive besides knowledge? We got you some — guess what — *
 
 ## 📅 Week 4 - DeFi Security
 
+**📌 Assignment**: [Dice Game](https://speedrunethereum.com/challenge/dice-game)
+
+**📌 Assignment**: [Build a DEX](https://speedrunethereum.com/challenge/minimum-viable-exchange)
+
 ### 🔐 Resources on DeFi Security Practices and Smart Contract Auditing
 - [🎥 Playlist: DeFi Security](https://www.youtube.com/watch?v=dDispC5aOMs&list=PLS01nW3RtgopsMpAceFwuyLKH42VW0Nw9)
 - [📝 DeFi Security Practices for Safer Smart Contracts](https://medium.com/@realcyberdoctor/defi-security-practices-for-safer-smart-contracts-b87374ff6467)
@@ -148,7 +152,7 @@ Need some more incentive besides knowledge? We got you some — guess what — *
 
 ---
 
-## 📅 Week 5 - Staking, Re-staking, and Advanced Concepts
+## 📅 Week 5 - Staking, Re-staking, and Advanced Concepts (Optional)
 
 ### 🌱 Understanding Ethereum Staking and EigenLayer
 - [🔗 Ethereum Staking Mechanics – Step-by-Step](https://cryptoforinnovation.org/ethereum-staking-mechanics-a-step-by-step-explanation/)
@@ -183,9 +187,10 @@ Each NFT is **soulbound (non-transferable)** and reflects your personal bootcamp
 **Style:** Elite / Heroic  
 > 🚀 You've gone above and beyond — completing every challenge, actively engaging in discussions, and blazing a trail for others to follow.
 **To earn this NFT, you must:**  
-- ✅ Complete **all 5 assignments**  
-- 💬 Actively participate in group discussions  
-- 📝 Write at least **1 well-researched blog/article** on DeFi  
+- ✅ Complete **all 5 assignments** 
+- ✅ Complete SpeedRunETH's **Over-Collateralized Lending or Prediction Markets**
+- 💬 Actively participate in group discussions
+
 
 ### 🔵 Liquidity Ninja  
 **Tier:** Epic  
