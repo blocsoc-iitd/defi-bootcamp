@@ -1,3 +1,4 @@
+
 # 🚀 DeFi Summer Bootcamp 🌞
 
 <div align="center">
@@ -134,7 +135,8 @@ Need some more incentive besides knowledge? We got you some — guess what — *
 - 📈 [AMM vs Order Book](https://snapinnovations.com/amm-vs-order-book-understanding-the-core-of-modern-crypto-trading/)
 - 📄 *(Advanced)* [AMM book](https://drive.google.com/file/d/12KHNwPP0T1nT6BDXr_N8Rz0rLuHsTij4/view?usp=sharing)
 - 📄 *(Advanced)* [Stablecoins 2.0 Paper](https://berkeley-defi.github.io/assets/material/Stablecoins%202.0%20.pdf)  
-- 📚 *(Advanced)* [Uniswap v3 Book](https://uniswapv3book.com/index.html)  
+- 📚 *(Advanced)* [Uniswap v3 Book](https://uniswapv3book.com/index.html)
+- 📄 *(Optional)* [DefiPy](https://defipy.readthedocs.io/en/latest/quick/index.html)
 
 
 ## 📅 Week 4 - DeFi Security
